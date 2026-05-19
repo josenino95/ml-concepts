@@ -10,7 +10,13 @@
     <loc>https://carpentries-incubator.github.io/ml-concepts/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/index.html</loc>
@@ -25,13 +31,25 @@
     <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/LICENSE.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/citation.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/images.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/index.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/profiles.html</loc>
@@ -40,7 +58,13 @@
     <loc>https://carpentries-incubator.github.io/ml-concepts/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/instructor-notes.html</loc>
+  </url>
+  <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/introduction.html</loc>
+  </url>
+  <url>
+    <loc>https://carpentries-incubator.github.io/ml-concepts/key-points.html</loc>
   </url>
   <url>
     <loc>https://carpentries-incubator.github.io/ml-concepts/profiles.html</loc>
