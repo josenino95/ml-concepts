@@ -16,14 +16,45 @@ exercises: 2 # exercise time in minutes
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## What is Machine Learning and Artificial Intelligence?
+10 core concepts:
+
+
+## Concept 1: What are Machine Learning and Artificial Intelligence?
+
+
+## Concept 2: Paradigms/Types of Machine Learning
+
+
+
+## Concept 3: ML models can only use numbers 
+
+- Start coding with penguins data
+
+## Concept 4: Supervised learning tasks
+
+
+## Concept 5: Clearly identify your goal and available data
+
+
+## Concept 6: How ML models learn
+
+- Talk about objective function, loss, learning
+- It learns patterns from existing data, with its bias
+
+## Concept 7: Splitting the data
+
+
+## Concept 8: Evaluating your model
+
+
+## Concept 9: Experiment and iterate
 
 - AI/ML is a computer algorithm learning trends from previous/past data/observations.
 - Three types: supervised, unsupervised, reinforcement learning.
 - Focus on supervised learning as it is the most widely used and most useful for all types of fields
 - Supervised takes input data/features to predict with this information an output variable/target/label
 
-## Core principles:
+
 
 - Identify your problem, task, inputs, and outputs, what you want to predict
 - Clean your data and perform necessary data preparation
